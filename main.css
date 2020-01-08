@@ -1,0 +1,105 @@
+.seat {
+    background-color: white;
+    height: 18px;
+    border-width: 0px;
+    width: 18px;
+    font-size: 13px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-color: lightgrey;
+    text-align: center;
+    float: left;
+    margin-top: 8px;
+    margin-left: 4px;
+    margin-right: 4px;
+    color: darkgray;
+    padding: 1px 0px;
+}
+.green{
+  background-color : green;
+}
+.white{
+  background-color : white;
+}
+.red{
+  background-color: red;
+}
+td{
+  text-align: right;
+}
+.mnrow{
+
+      background-color: white;
+      height: 16px;
+      width: 16px;
+      font-size: 13px;
+      border-style: solid;
+      border-width: 1px;
+      border-top-left-radius: 5px;
+      border-top-right-radius: 5px;
+      border-color: lightgrey;
+      text-align: center;
+      margin-top: 8px;
+      margin-left: 4px;
+      margin-right: 4px;
+      color: darkgray;
+      padding: 1px 0px;
+}
+.rowshow{
+    height: 400px;
+    margin: 10px;
+    margin: 10px;
+    margin-right: 4px;
+    border-style: solid;
+    border-width: thin;
+    float: left;
+    border-color: lightgrey;
+}
+#book {
+  background: #3498db;
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  margin-left: 250px;
+  border-radius: 28px;
+  border-width: thin;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+#book:hover {
+  background: #3cb0fd;
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.t{
+  width:630px;
+  height: 500px;
+  background-color: #44abed;
+  border-style: solid;
+  border-width: thin;
+  border-color: lightgrey;
+}
+.l{
+  width: 260px;
+  height: 400px;
+  margin: 10px;
+  margin-right: 25px;
+  margin-left: 4px;
+  border-style: solid;
+  border-width: thin;
+  float: left;
+  border-color: lightgrey;
+}
+.r{
+  width: 260px;
+  height: 400px;
+  margin-top: 10px;
+  margin-left: 25px;
+  margin-right:10px;
+  border-style: solid;
+  border-width: thin;
+  float: left;
+  border-color: lightgrey;
+}

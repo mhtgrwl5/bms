@@ -1,0 +1,117 @@
+.movieblock{
+  margin: 20px auto;
+  height: 400px;
+  width: 75%;
+  /*float: left;*/
+  background-color: #aaaaaa;
+}
+.txt{
+  margin: 0px;
+  background-color: white;
+  height: 100px;
+  width: 100%
+}
+.img{
+  height: 300px;
+  margin: 0px;
+  width: 100%;
+}
+.loginbox{
+  margin: auto;
+  width:30%;
+  margin-top: 90px;
+  box-shadow: 0px 3px 10px 2px black;
+}
+.contents{
+  font-size: 20px;
+  width: 98%;
+  font-family: cursive;
+  margin-left: 3px;
+}
+.lh50{
+  line-height: 50px;
+}
+.lefta_d{
+  float: left;
+  width: 44%;
+  margin: 10px 34px;
+  text-align: center;
+  font-size: 26px;
+  padding-top: 80px;
+  align-content: center;
+  text-decoration: none;
+  color: black;
+}
+.mhtmodal{
+  width: 850px;
+  border-width: 2px;
+  margin: auto;
+}
+.mhead{
+  line-height: 70px;
+  font-size: 26px;
+}
+.mbody{
+  line-height: 50px;
+  font-size: 24px;
+}
+#head{
+  position: -webkit-sticky;
+  position: sticky;
+  width: 100%;
+  top: 0;
+  margin: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  background-color: black;
+}
+#p10{
+  padding-left: 10px;
+  padding-right: 20px;
+  font-size: 30px;
+}
+.right{
+  float: right;
+}
+.p13{
+  padding-left:13px;
+  padding-right: 20px;
+  font-size: 24px;
+}
+#foot{
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  padding: inherit;
+  background-color: black;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+body{
+  margin: 0;
+}
+.booknow{
+  padding: 20px;
+  margin: 20px;
+  font-size: 24px;
+  background-color: red;
+  float: right;
+  border-width: 0px;
+  border-radius: 20px;
+  color: white;
+}
+.newdiv{
+  text-align: right;
+}
+.lgnbtn{
+  padding: 10px 16px;
+  margin: 16px;
+  font-size: 18px;
+  background-color: darkslategrey;
+  align-content: right;
+  border-width: 0px;
+  border-radius: 20px;
+  color: white;
+}
